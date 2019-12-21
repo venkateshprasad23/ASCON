@@ -14,6 +14,12 @@ The project is an effort to try and assist the 70 million people who can't commu
 
 ### Code Organisation
 
+```
+Neural Nets Folder -- Contains codes for training and testing.
+Feature Exraction  -- Contains codes for feature extraction.
+Pragyan Final      -- Contains the final trained model and weights used for display during Pragyan 2017.
+Documentation      -- Contains a link to the working video for our project.
+
 
 
 
