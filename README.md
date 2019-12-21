@@ -14,6 +14,6 @@ The project is an effort to try and assist the 70 million people who can't commu
 
 ### Code Organisation
 
-Code organisation has been done individually for each folder.
+
 
 
